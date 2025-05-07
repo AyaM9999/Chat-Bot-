@@ -1,0 +1,7 @@
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.csproj.AssemblyReference.cache
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.AssemblyInfoInputs.cache
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.AssemblyInfo.cs
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.csproj.CoreCompileInputs.cache
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AYA MAHMOUD\source\repos\chatbot\chatbot\obj\Debug\net9.0\chatbot.MvcApplicationPartsAssemblyInfo.cache
